@@ -1,5 +1,5 @@
-# Llama2-Experiments
+# LLM-Experiments
 
-Just playing around with Llama2.
+Just playing around with LLMs.
 
 Contributors are welcome :)
